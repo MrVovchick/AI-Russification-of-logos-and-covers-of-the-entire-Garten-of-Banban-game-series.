@@ -2,14 +2,15 @@
 AI Русификация логотипов и обложек всей серии игр Garten of Banban.
 
 # Логотипы
-<img width="640" height="360" alt="logo" src="https://github.com/user-attachments/assets/cdd874e8-1ea0-4763-976a-cca1124160cd" />
-<img width="640" height="360" alt="logo" src="https://github.com/user-attachments/assets/65e04700-dfca-497d-bb7b-5ef0cfb0d910" />
-<img width="640" height="360" alt="logo" src="https://github.com/user-attachments/assets/bf58d224-4d27-4bd0-8183-a3654459d785" />
-<img width="640" height="360" alt="logo" src="https://github.com/user-attachments/assets/1d5bc19b-8328-493b-8b9c-6d2b837afb22" />
-<img width="640" height="360" alt="logo" src="https://github.com/user-attachments/assets/3ad9316d-0c23-4fc8-842b-984743823065" />
-<img width="640" height="360" alt="logo" src="https://github.com/user-attachments/assets/0e07dc14-9843-4445-8427-432bdce04f00" />
-<img width="640" height="360" alt="logo" src="https://github.com/user-attachments/assets/06d699c6-cdcc-49af-8b89-6d0a86ff7647" />
-<img width="640" height="360" alt="logo" src="https://github.com/user-attachments/assets/dca5e8ec-c312-4478-aa27-b31707299c60" />
+<img width="640" height="360" alt="logo" src="https://github.com/user-attachments/assets/152ac443-9bd3-458c-ad98-61b048c7be5d" />
+<img width="640" height="360" alt="logo" src="https://github.com/user-attachments/assets/ba782b68-b6b1-46be-bca2-54f186d59b3d" />
+<img width="640" height="360" alt="logo" src="https://github.com/user-attachments/assets/e4439743-c54f-4795-b584-5bed03a640e3" />
+<img width="640" height="360" alt="logo" src="https://github.com/user-attachments/assets/9a70b635-72d9-440f-a35f-683e6d99813f" />
+<img width="640" height="360" alt="logo" src="https://github.com/user-attachments/assets/539a434e-bd8c-4a62-96f3-8e21689ad179" />
+<img width="640" height="360" alt="logo" src="https://github.com/user-attachments/assets/b7f2b0c5-cf12-4e48-8e6c-f6e9415570ba" />
+<img width="640" height="360" alt="logo" src="https://github.com/user-attachments/assets/ed3a709d-722c-4ec6-8b3b-2fe0fb0c0541" />
+<img width="640" height="360" alt="logo" src="https://github.com/user-attachments/assets/87dd0e6c-a6e4-4206-84f9-c163245d9bb8" />
+
 
 # Вертикальные обложки
 ![library_600x900](https://github.com/user-attachments/assets/69262239-6ade-41c9-aa9b-60b6823105d6)
