@@ -22,7 +22,7 @@ AI Русификация логотипов и обложек всей сери
 ![library_600x900](https://github.com/user-attachments/assets/9bb39753-7637-4eee-95dd-67bee4812343)
 ![library_600x900](https://github.com/user-attachments/assets/b0847c2a-b684-40f8-b6a5-6f7d6edc5b94)
 
-# Горизонтальные обложка
+# Горизонтальные обложки
 ![library_header](https://github.com/user-attachments/assets/36bbab99-bc32-4820-a159-9e9732e87b49)
 ![library_header](https://github.com/user-attachments/assets/a3293683-cefc-451b-ae51-2dc17a666026)
 ![library_header](https://github.com/user-attachments/assets/44452558-36b1-45fe-aef6-7e301a56689d)
